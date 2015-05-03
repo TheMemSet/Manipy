@@ -1,0 +1,6 @@
+C:\Users\Muhamed\Documents\GitHub\Manipy\CSharp\ManipySharp\ManipySharp\bin\Release\ManipySharp.exe.config
+C:\Users\Muhamed\Documents\GitHub\Manipy\CSharp\ManipySharp\ManipySharp\bin\Release\ManipySharp.exe
+C:\Users\Muhamed\Documents\GitHub\Manipy\CSharp\ManipySharp\ManipySharp\bin\Release\ManipySharp.pdb
+C:\Users\Muhamed\Documents\GitHub\Manipy\CSharp\ManipySharp\ManipySharp\obj\Release\ManipySharp.csprojResolveAssemblyReference.cache
+C:\Users\Muhamed\Documents\GitHub\Manipy\CSharp\ManipySharp\ManipySharp\obj\Release\ManipySharp.exe
+C:\Users\Muhamed\Documents\GitHub\Manipy\CSharp\ManipySharp\ManipySharp\obj\Release\ManipySharp.pdb
